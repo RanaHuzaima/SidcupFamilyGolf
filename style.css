@@ -179,6 +179,17 @@ video{
     padding: 0 100px;
     
   }
+  #about-us {
+    height: 40vh;
+    width: 100%;
+    /* background-color: red; */
+    display: flex;
+    padding: 0 50px;
+    align-items: center;
+    position: relative;
+    z-index: 10;
+    justify-content: space-around;
+  }
   #footer > img {
     position: absolute;
     left: 0;
