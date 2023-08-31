@@ -200,6 +200,15 @@ video{
     width: 50%;
     text-align: center;
   }
+  #about-us-in h3 {
+    font-size: 54px;
+    font-weight: 800;
+    margin-bottom: 30px;
+  }
+  #about-us-in p {
+    font-size: 20px;
+    line-height: 26px;
+  }
   #footer > img {
     position: absolute;
     left: 0;
