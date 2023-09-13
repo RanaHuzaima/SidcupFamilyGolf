@@ -1,5 +1,5 @@
 # SidcupFamilyGolf
-
+I made a Clone of the Sidcup Family Golf Website.
 # Live Link:
 **https://sidcup-family-club.netlify.app/**
 
